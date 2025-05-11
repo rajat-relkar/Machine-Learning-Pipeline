@@ -83,9 +83,3 @@ The pipeline automatically handles preprocessing (imputation, scaling, encoding)
 - Optimize `RandomForestRegressor` hyperparameters using grid search or random search.
 - Enhance feature engineering by deriving new features or addressing outliers.
 - Expand the dataset with additional vehicle samples or features.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For questions or feedback, please open an issue on this GitHub repository.
